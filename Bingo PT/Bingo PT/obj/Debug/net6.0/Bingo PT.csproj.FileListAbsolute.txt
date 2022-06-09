@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.AssemblyInfo.cs
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\bin\Debug\net6.0\Bingo PT.exe
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\bin\Debug\net6.0\Bingo PT.deps.json
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\bin\Debug\net6.0\Bingo PT.runtimeconfig.json
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\bin\Debug\net6.0\Bingo PT.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\bin\Debug\net6.0\Bingo PT.pdb
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\refint\Bingo PT.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.pdb
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\Bingo PT.genruntimeconfig.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Bingo\Bingo PT\Bingo PT\obj\Debug\net6.0\ref\Bingo PT.dll
