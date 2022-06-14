@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\bin\Debug\net6.0\Adivinanzas.exe
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\bin\Debug\net6.0\Adivinanzas.deps.json
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\bin\Debug\net6.0\Adivinanzas.runtimeconfig.json
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\bin\Debug\net6.0\Adivinanzas.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\bin\Debug\net6.0\Adivinanzas.pdb
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.AssemblyInfo.cs
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\refint\Adivinanzas.dll
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.pdb
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\Adivinanzas.genruntimeconfig.cache
+C:\Users\WINDOWS\Documents\Polo Tecnologico\Adivinanzas\Adivinanzas\Adivinanzas\obj\Debug\net6.0\ref\Adivinanzas.dll
